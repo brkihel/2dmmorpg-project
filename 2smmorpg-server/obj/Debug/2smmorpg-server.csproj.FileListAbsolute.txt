@@ -1,0 +1,7 @@
+C:\Users\BRENDA\Desktop\MMO Project\2dmmorpg-project\2smmorpg-server\obj\Debug\2smmorpg-server.csprojAssemblyReference.cache
+C:\Users\BRENDA\Desktop\MMO Project\2dmmorpg-project\2smmorpg-server\obj\Debug\2smmorpg-server.csproj.CoreCompileInputs.cache
+C:\Users\BRENDA\Desktop\MMO Project\2dmmorpg-project\2smmorpg-server\bin\Debug\2smmorpg-server.exe.config
+C:\Users\BRENDA\Desktop\MMO Project\2dmmorpg-project\2smmorpg-server\bin\Debug\2smmorpg-server.exe
+C:\Users\BRENDA\Desktop\MMO Project\2dmmorpg-project\2smmorpg-server\bin\Debug\2smmorpg-server.pdb
+C:\Users\BRENDA\Desktop\MMO Project\2dmmorpg-project\2smmorpg-server\obj\Debug\2smmorpg-server.exe
+C:\Users\BRENDA\Desktop\MMO Project\2dmmorpg-project\2smmorpg-server\obj\Debug\2smmorpg-server.pdb
